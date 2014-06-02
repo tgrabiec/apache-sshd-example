@@ -3,7 +3,7 @@ apache-sshd-example
 
 This is a simple app using Apache SSHD (http://mina.apache.org/sshd-project/index.html).
 
-It can be ran using capstan:
+It can be run using capstan:
 
 ```
 $ capstan run
