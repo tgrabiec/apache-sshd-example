@@ -1,0 +1,2 @@
+module:
+	mvn package

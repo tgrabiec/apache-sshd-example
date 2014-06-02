@@ -1,0 +1,8 @@
+base: cloudius/osv-openjdk
+
+cmdline: java.so -jar /apache-sshd-example.jar
+
+build: mvn package
+
+files:
+  /apache-sshd-example.jar: target/apache-sshd-example-1.0-SNAPSHOT-jar-with-dependencies.jar

@@ -1,0 +1,1 @@
+/apache-sshd-example.jar: ${MODULE_DIR}/target/apache-sshd-example-1.0-SNAPSHOT-jar-with-dependencies.jar
